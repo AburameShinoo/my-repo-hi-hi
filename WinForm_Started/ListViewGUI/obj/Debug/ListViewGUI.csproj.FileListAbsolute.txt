@@ -1,0 +1,10 @@
+C:\Users\System_Engineer\source\repos\WinForm_Started\ListViewGUI\bin\Debug\ListViewGUI.exe.config
+C:\Users\System_Engineer\source\repos\WinForm_Started\ListViewGUI\bin\Debug\ListViewGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\ListViewGUI\bin\Debug\ListViewGUI.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\ListViewGUI\obj\Debug\ListViewGUI.csprojAssemblyReference.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\ListViewGUI\obj\Debug\ListViewGUI.Form1.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\ListViewGUI\obj\Debug\ListViewGUI.Properties.Resources.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\ListViewGUI\obj\Debug\ListViewGUI.csproj.GenerateResource.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\ListViewGUI\obj\Debug\ListViewGUI.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\ListViewGUI\obj\Debug\ListViewGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\ListViewGUI\obj\Debug\ListViewGUI.pdb

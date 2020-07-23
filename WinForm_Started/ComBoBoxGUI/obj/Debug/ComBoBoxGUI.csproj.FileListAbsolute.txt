@@ -1,0 +1,10 @@
+C:\Users\System_Engineer\source\repos\WinForm_Started\ComBoBoxGUI\bin\Debug\ComBoBoxGUI.exe.config
+C:\Users\System_Engineer\source\repos\WinForm_Started\ComBoBoxGUI\bin\Debug\ComBoBoxGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\ComBoBoxGUI\bin\Debug\ComBoBoxGUI.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\ComBoBoxGUI\obj\Debug\ComBoBoxGUI.Form1.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\ComBoBoxGUI\obj\Debug\ComBoBoxGUI.Properties.Resources.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\ComBoBoxGUI\obj\Debug\ComBoBoxGUI.csproj.GenerateResource.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\ComBoBoxGUI\obj\Debug\ComBoBoxGUI.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\ComBoBoxGUI\obj\Debug\ComBoBoxGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\ComBoBoxGUI\obj\Debug\ComBoBoxGUI.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\ComBoBoxGUI\obj\Debug\ComBoBoxGUI.csprojAssemblyReference.cache

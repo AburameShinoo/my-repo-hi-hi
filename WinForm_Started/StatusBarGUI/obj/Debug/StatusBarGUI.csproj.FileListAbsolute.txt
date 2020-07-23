@@ -1,0 +1,10 @@
+C:\Users\System_Engineer\source\repos\WinForm_Started\StatusBarGUI\bin\Debug\StatusBarGUI.exe.config
+C:\Users\System_Engineer\source\repos\WinForm_Started\StatusBarGUI\bin\Debug\StatusBarGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\StatusBarGUI\bin\Debug\StatusBarGUI.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\StatusBarGUI\obj\Debug\StatusBarGUI.Form1.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\StatusBarGUI\obj\Debug\StatusBarGUI.Properties.Resources.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\StatusBarGUI\obj\Debug\StatusBarGUI.csproj.GenerateResource.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\StatusBarGUI\obj\Debug\StatusBarGUI.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\StatusBarGUI\obj\Debug\StatusBarGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\StatusBarGUI\obj\Debug\StatusBarGUI.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\StatusBarGUI\obj\Debug\StatusBarGUI.csprojAssemblyReference.cache

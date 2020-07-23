@@ -1,0 +1,10 @@
+C:\Users\System_Engineer\source\repos\WinForm_Started\Tree_View\bin\Debug\Tree_View.exe.config
+C:\Users\System_Engineer\source\repos\WinForm_Started\Tree_View\bin\Debug\Tree_View.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\Tree_View\bin\Debug\Tree_View.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\Tree_View\obj\Debug\Tree_View.csprojAssemblyReference.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\Tree_View\obj\Debug\Tree_View.Form1.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\Tree_View\obj\Debug\Tree_View.Properties.Resources.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\Tree_View\obj\Debug\Tree_View.csproj.GenerateResource.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\Tree_View\obj\Debug\Tree_View.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\Tree_View\obj\Debug\Tree_View.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\Tree_View\obj\Debug\Tree_View.pdb

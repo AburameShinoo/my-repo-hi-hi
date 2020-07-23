@@ -1,0 +1,10 @@
+C:\Users\System_Engineer\source\repos\WinForm_Started\PictureGUI\bin\Debug\PictureGUI.exe.config
+C:\Users\System_Engineer\source\repos\WinForm_Started\PictureGUI\bin\Debug\PictureGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\PictureGUI\bin\Debug\PictureGUI.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\PictureGUI\obj\Debug\PictureGUI.csprojAssemblyReference.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\PictureGUI\obj\Debug\PictureGUI.Form1.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\PictureGUI\obj\Debug\PictureGUI.Properties.Resources.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\PictureGUI\obj\Debug\PictureGUI.csproj.GenerateResource.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\PictureGUI\obj\Debug\PictureGUI.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\PictureGUI\obj\Debug\PictureGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\PictureGUI\obj\Debug\PictureGUI.pdb

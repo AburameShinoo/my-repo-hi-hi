@@ -1,0 +1,10 @@
+C:\Users\System_Engineer\source\repos\WinForm_Started\NotifyIconGUI\obj\Debug\NotifyIconGUI.csprojAssemblyReference.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\NotifyIconGUI\obj\Debug\NotifyIconGUI.Form1.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\NotifyIconGUI\obj\Debug\NotifyIconGUI.Properties.Resources.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\NotifyIconGUI\obj\Debug\NotifyIconGUI.csproj.GenerateResource.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\NotifyIconGUI\obj\Debug\NotifyIconGUI.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\NotifyIconGUI\bin\Debug\NotifyIconGUI.exe.config
+C:\Users\System_Engineer\source\repos\WinForm_Started\NotifyIconGUI\bin\Debug\NotifyIconGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\NotifyIconGUI\bin\Debug\NotifyIconGUI.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\NotifyIconGUI\obj\Debug\NotifyIconGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\NotifyIconGUI\obj\Debug\NotifyIconGUI.pdb

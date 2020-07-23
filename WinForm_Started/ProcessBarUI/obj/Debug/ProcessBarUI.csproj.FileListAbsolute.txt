@@ -1,0 +1,9 @@
+C:\Users\System_Engineer\source\repos\WinForm_Started\ProcessBarUI\bin\Debug\ProcessBarUI.exe.config
+C:\Users\System_Engineer\source\repos\WinForm_Started\ProcessBarUI\bin\Debug\ProcessBarUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\ProcessBarUI\bin\Debug\ProcessBarUI.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\ProcessBarUI\obj\Debug\ProcessBarUI.Form1.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\ProcessBarUI\obj\Debug\ProcessBarUI.Properties.Resources.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\ProcessBarUI\obj\Debug\ProcessBarUI.csproj.GenerateResource.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\ProcessBarUI\obj\Debug\ProcessBarUI.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\ProcessBarUI\obj\Debug\ProcessBarUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\ProcessBarUI\obj\Debug\ProcessBarUI.pdb

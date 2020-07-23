@@ -1,0 +1,10 @@
+C:\Users\System_Engineer\source\repos\WinForm_Started\TimerUI\bin\Debug\TimerUI.exe.config
+C:\Users\System_Engineer\source\repos\WinForm_Started\TimerUI\bin\Debug\TimerUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\TimerUI\bin\Debug\TimerUI.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\TimerUI\obj\Debug\TimerUI.csprojAssemblyReference.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\TimerUI\obj\Debug\TimerUI.Form1.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\TimerUI\obj\Debug\TimerUI.Properties.Resources.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\TimerUI\obj\Debug\TimerUI.csproj.GenerateResource.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\TimerUI\obj\Debug\TimerUI.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\TimerUI\obj\Debug\TimerUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\TimerUI\obj\Debug\TimerUI.pdb

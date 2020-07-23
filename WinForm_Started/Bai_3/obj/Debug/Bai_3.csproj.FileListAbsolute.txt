@@ -1,0 +1,10 @@
+C:\Users\System_Engineer\source\repos\WinForm_Started\Bai_3\bin\Debug\Bai_3.exe.config
+C:\Users\System_Engineer\source\repos\WinForm_Started\Bai_3\bin\Debug\Bai_3.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\Bai_3\bin\Debug\Bai_3.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\Bai_3\obj\Debug\Bai_3.Form1.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\Bai_3\obj\Debug\Bai_3.Properties.Resources.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\Bai_3\obj\Debug\Bai_3.csproj.GenerateResource.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\Bai_3\obj\Debug\Bai_3.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\Bai_3\obj\Debug\Bai_3.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\Bai_3\obj\Debug\Bai_3.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\Bai_3\obj\Debug\Bai_3.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\System_Engineer\source\repos\WinForm_Started\ConTextMenuGUI\bin\Debug\ConTextMenuGUI.exe.config
+C:\Users\System_Engineer\source\repos\WinForm_Started\ConTextMenuGUI\bin\Debug\ConTextMenuGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\ConTextMenuGUI\bin\Debug\ConTextMenuGUI.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\ConTextMenuGUI\obj\Debug\ConTextMenuGUI.csprojAssemblyReference.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\ConTextMenuGUI\obj\Debug\ConTextMenuGUI.Form1.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\ConTextMenuGUI\obj\Debug\ConTextMenuGUI.Properties.Resources.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\ConTextMenuGUI\obj\Debug\ConTextMenuGUI.csproj.GenerateResource.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\ConTextMenuGUI\obj\Debug\ConTextMenuGUI.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\ConTextMenuGUI\obj\Debug\ConTextMenuGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\ConTextMenuGUI\obj\Debug\ConTextMenuGUI.pdb

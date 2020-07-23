@@ -1,0 +1,10 @@
+C:\Users\System_Engineer\source\repos\WinForm_Started\LingQGUI\bin\Debug\LingQGUI.exe.config
+C:\Users\System_Engineer\source\repos\WinForm_Started\LingQGUI\bin\Debug\LingQGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\LingQGUI\bin\Debug\LingQGUI.pdb
+C:\Users\System_Engineer\source\repos\WinForm_Started\LingQGUI\obj\Debug\LingQGUI.csprojAssemblyReference.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\LingQGUI\obj\Debug\LingQGUI.Form1.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\LingQGUI\obj\Debug\LingQGUI.Properties.Resources.resources
+C:\Users\System_Engineer\source\repos\WinForm_Started\LingQGUI\obj\Debug\LingQGUI.csproj.GenerateResource.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\LingQGUI\obj\Debug\LingQGUI.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\WinForm_Started\LingQGUI\obj\Debug\LingQGUI.exe
+C:\Users\System_Engineer\source\repos\WinForm_Started\LingQGUI\obj\Debug\LingQGUI.pdb
