@@ -1,0 +1,12 @@
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\Event_chuan_.Net\bin\Debug\netcoreapp3.1\Event_chuan_.Net.exe
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\Event_chuan_.Net\bin\Debug\netcoreapp3.1\Event_chuan_.Net.deps.json
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\Event_chuan_.Net\bin\Debug\netcoreapp3.1\Event_chuan_.Net.runtimeconfig.json
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\Event_chuan_.Net\bin\Debug\netcoreapp3.1\Event_chuan_.Net.runtimeconfig.dev.json
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\Event_chuan_.Net\bin\Debug\netcoreapp3.1\Event_chuan_.Net.dll
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\Event_chuan_.Net\bin\Debug\netcoreapp3.1\Event_chuan_.Net.pdb
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\Event_chuan_.Net\obj\Debug\netcoreapp3.1\Event_chuan_.Net.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\Event_chuan_.Net\obj\Debug\netcoreapp3.1\Event_chuan_.Net.AssemblyInfoInputs.cache
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\Event_chuan_.Net\obj\Debug\netcoreapp3.1\Event_chuan_.Net.AssemblyInfo.cs
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\Event_chuan_.Net\obj\Debug\netcoreapp3.1\Event_chuan_.Net.dll
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\Event_chuan_.Net\obj\Debug\netcoreapp3.1\Event_chuan_.Net.pdb
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\Event_chuan_.Net\obj\Debug\netcoreapp3.1\Event_chuan_.Net.genruntimeconfig.cache

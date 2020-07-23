@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BitArray_trong_CSharp/1.0.0": {
+        "runtime": {
+          "BitArray_trong_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BitArray_trong_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

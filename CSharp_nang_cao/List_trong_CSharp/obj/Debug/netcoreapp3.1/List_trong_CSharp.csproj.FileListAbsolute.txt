@@ -1,0 +1,13 @@
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\bin\Debug\netcoreapp3.1\List_trong_CSharp.exe
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\bin\Debug\netcoreapp3.1\List_trong_CSharp.deps.json
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\bin\Debug\netcoreapp3.1\List_trong_CSharp.runtimeconfig.json
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\bin\Debug\netcoreapp3.1\List_trong_CSharp.runtimeconfig.dev.json
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\bin\Debug\netcoreapp3.1\List_trong_CSharp.dll
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\bin\Debug\netcoreapp3.1\List_trong_CSharp.pdb
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\obj\Debug\netcoreapp3.1\List_trong_CSharp.csprojAssemblyReference.cache
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\obj\Debug\netcoreapp3.1\List_trong_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\obj\Debug\netcoreapp3.1\List_trong_CSharp.AssemblyInfoInputs.cache
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\obj\Debug\netcoreapp3.1\List_trong_CSharp.AssemblyInfo.cs
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\obj\Debug\netcoreapp3.1\List_trong_CSharp.dll
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\obj\Debug\netcoreapp3.1\List_trong_CSharp.pdb
+C:\Users\System_Engineer\source\repos\CSharp_nang_cao\List_trong_CSharp\obj\Debug\netcoreapp3.1\List_trong_CSharp.genruntimeconfig.cache
